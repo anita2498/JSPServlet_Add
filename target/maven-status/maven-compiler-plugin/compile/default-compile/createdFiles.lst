@@ -1,0 +1,4 @@
+com\demo\entities\Product.class
+com\demo\servlets\ProductServlet.class
+com\demo\models\ProductModel.class
+com\demo\models\HibernateUtil.class
